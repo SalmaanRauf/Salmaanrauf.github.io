@@ -8,9 +8,11 @@ My GitHub page is http://github.com/Salmaanrauf.
 
 ### CPSC 120
 * Lab 3
+
     Lab 3, part 1 was a favorite for me because it was my first time being able to create a program with a complete understanding of all the components. Being that I have not coded before this class, learning to use the strings and be able to make my own program was a surreal experience. I learned the basics of inputting and outputting, like which way the < symbol faces and all the spacing requirements. I also learned how to use strings appropriately and call them to make a complete sentence. I really liked this lab because I understood everything that I was doing and was able to figure out my errors on my own.
 
 * Lab 5
+
     Lab 5, part 2 was also a favorite for me because it was my first time getting to calculate. In this lab, I learned about the proper applications of float and how to call the values to do a calculation. This was also the first time that I independently wrote an if-then statement which was also a fun and crucial experience. I also really liked this lab because it was quite simple and easy, and I was well-prepared and knowledgeable so I didn’t struggle.
   
 * Lab 7
